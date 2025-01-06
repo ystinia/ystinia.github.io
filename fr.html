@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
+  <title>CV</title>
+  <link rel="stylesheet" href="./css/styles.css" />
+</head>
+
+<body>
+
+  <header class="header">
+    <div class="lang-menu">
+      <div id="lang-menu-btn" class="lang-menu__button" tabindex="1">
+        <div class="lang-menu__text-wrap">
+          <img class="lang-menu__flag" src="./img/flag_fr.svg" alt="Français"
+            loading="lazy" style="width: 24px; height: 24px;">
+          <span class="lang-menu__text">Français</span>
+        </div>
+        <img id="lang-menu-img" class="lang-menu__arrow" src="./img/arrow_down.svg" loading="lazy"
+          style="width: 24px; height: 24px;">
+        </button>
+        <div id="lang-menu-list" class="lang-menu__list">
+          <a href="./en.html" class="lang-menu__item" tabindex="2">
+            <img class="lang-menu__item-flag" src="./img/flag_gb.svg"
+              alt="Anglais" style="width: 24px; height: 24px;">
+            <span class="lang-menu__name">Anglais</span>
+          </a>
+
+          <a href="./it.html" class="lang-menu__item" tabindex="3">
+            <img class="lang-menu__item-flag" src="./img/flag_it.svg"
+              alt="Italien" style="width: 24px; height: 24px;">
+            <span class="lang-menu__name">Italien</span>
+          </a>
+
+          <a href="./de.html" class="lang-menu__item" tabindex="4">
+            <img class="lang-menu__item-flag" src="./img/flag_de.svg"
+              alt="Allemand" style="width: 24px; height: 24px;">
+            <span class="lang-menu__name">Allemand</span>
+          </a>
+
+          <a href="./ru.html" class="lang-menu__item" tabindex="5">
+            <img class="lang-menu__item-flag" src="./img/flag_ru.svg"
+              alt="Russie" style="width: 24px; height: 24px;">
+            <span class="lang-menu__name">Russie</span>
+          </a>
+
+          <a href="./fr.html" class="lang-menu__item" tabindex="6">
+            <img class="lang-menu__item-flag" src="./img/flag_fr.svg"
+              alt="Français" style="width: 24px; height: 24px;">
+            <span class="lang-menu__name">Français</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!--
+    <a href="./cv.pdf">
+      <div class="header__download chips chips--filled">
+        <img src="./img/download.svg" alt="Télécharger le pdf" style="width: 24px; height: 24px;">
+        <span class="chips__label">Télécharger le pdf</span>
+      </div>
+    </a> -->
+
+
+  </header>
+
+  <main class="content">
+    <div class="profile">
+      <div class="profile__photo">
+        <picture>
+          <source media="(max-width: 360px)" srcset="./img/photo_mobile.png" />
+          <source media="(max-width: 768px)" srcset="./img/photo_tablet.png" />
+          <img src="./img/photo_pc.png" alt="YSTINIA ZALATOVA" loading="lazy">
+        </picture>
+      </div>
+      <div class="profile__info">
+        <div class="profile__name">
+          <div class="profile__first-name">YSTINIA</div>
+          <div class="profile__last-name">ZALATOVA</div>
+        </div>
+        <div class="profile__description">Professionnel très organisé et dynamique, désireux d'apporter son expertise et son enthousiasme à l'équipe. Prêt à donner le meilleur de moi-même dans chaque tâche, j'accorde une grande attention aux détails et je travaille dur pour obtenir d'excellents résultats</div>
+      </div>
+    </div>
+
+
+    <div class="contacts">
+      <div class="chips chips--outline contacts__item--location contacts__chips">
+        <div class="contacts__icon">
+          <img src="./img/location_big.svg" alt="Via Padre Semeria, 304, Sanremo, 18034, Italy" loading="lazy">
+        </div>
+        <span class="chips__label contacts__chips-label">Via Padre Semeria, 304, Sanremo, 18034, Italy</span>
+      </div>
+
+      <div class="chips chips--outline contacts__item--phone contacts__chips">
+        <div class="contacts__icon">
+          <img src="./img/phone_big.svg" alt="+39 333 3669684" loading="lazy">
+        </div>
+        <span class="chips__label contacts__chips-label">+39 333 3669684</span>
+      </div>
+
+      <div class="chips chips--outline contacts__item--email contacts__chips">
+        <div class="contacts__icon">
+          <img src="./img/email_big.svg" alt="y.zalatova@openipc.org" loading="lazy">
+        </div>
+        <span class="chips__label contacts__chips-label">y.zalatova@openipc.org</span>
+      </div>
+    </div>
+
+    <div class="contact-icons">
+      <a href="https://t.me/Ystinia5" class="contact-icons__item">
+        <img src="./img/telegram.svg" alt="https://t.me/Ystinia5">
+      </a>
+
+      <a href="https://openipc.org/our-team" class="contact-icons__item">
+        <img src="./img/openipc.svg" alt="https://openipc.org/our-team">
+      </a>
+    </div>
+
+    <div class="personal-data">
+      <div class="personal-data__header">
+        <h1 class="personal-data__title">INFORMATIONS PERSONNELLES</h1>
+      </div>
+      <div class="personal-data__birthdate">
+        <span class="personal-data__birthdate-label">Date de naissance:</span>
+        <span class="personal-data__birthdate-value">05 juin 2005</span>
+      </div>
+    </div>
+
+    <section class="work-experience">
+      <h2 class="work-experience__title">EXPÉRIENCES PROFESSIONNELLES</h2>
+      <div class="work-experience__list">
+
+        <div class="work-experience__item">
+          <div class="chips chips--filled">
+            <span class="chips__label">Aoùt 2021 - présent</span>
+          </div>
+          <div class="work-experience__item-details">
+            <div class="work-experience__item-details-header">
+              <h3 class="work-experience__item-details-title">Représentant de la communauté</h3>
+              <p class="work-experience__item-details-subtitle">OpenIPC, Internet</p>
+            </div>
+            <p class="work-experience__item-details-description">Gestion du bureau de présentation d'OpenIPC, gestion du budget de la communauté sur la plateforme OpenCollective, développement de partenariats, maintien de la documentations</p>
+          </div>
+        </div>
+
+        <div class="work-experience__item">
+          <div class="chips chips--filled">
+            <span class="chips__label">Juil. 2023 - Juil. 2024</span>
+          </div>
+          <div class="work-experience__item-details">
+            <div class="work-experience__item-details-header">
+              <h3 class="work-experience__item-details-title">Animatrice</h3>
+              <p class="work-experience__item-details-subtitle">CŒURS VAILLANTS-AMES VAILLANTES (A.C.E.), Selonnet dans les Alpes de Haute-Provence en France</p>
+            </div>
+            <p class="work-experience__item-details-description">Engagé en tant qu'animatrice 24/7 dans un camp d'été pour enfants, offrant des expériences dynamiques et interactives à des enfants âgés de 6 à 15 ans</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <section class="skills-education">
+      <div class="skills">
+        <h2 class="skills__title">COMPÉTENCES</h2>
+        <div class="skills__list">
+          <div class="chips chips--outline">
+            <span class="chips__label">Organisation</span>
+          </div>
+          <div class="chips chips--outline">
+            <span class="chips__label">Communication et Traduction</span>
+          </div>
+          <div class="chips chips--outline">
+            <span class="chips__label">Créer des présentations</span>
+          </div>
+          <div class="chips chips--outline">
+            <span class="chips__label">Travail sur ordinateur</span>
+          </div>
+          <div class="chips chips--outline">
+            <span class="chips__label">Travailler avec des enfants</span>
+          </div>
+          <div class="chips chips--outline">
+            <span class="chips__label">Altiste</span>
+          </div>
+        </div>
+      </div>
+      <div class="education">
+        <h2 class="education__title">ÉDUCATION</h2>
+        <div class="education__item">
+          <div class="education__degree">
+            <h3 class="education__degree-title">Diplôme d’études supérieures, 2024</h2>
+              <p class="education__degree-school">École secondaire d'état G.D. Cassini, Sanremo</p>
+          </div>
+          <div class="education__details">
+            <p class="education__details-item">L'accent est mis sur les langues étrangères : Anglais, français et allemand</p>
+            <p class="education__details-item">Obtention du diplôme d'études secondaires (Liceo statale Gian Domenico Cassini) avec de bonnes notes et une conduite exemplaire</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="courses-section">
+      <h2 class="courses-section__title">FORMATIONS</h2>
+      <div class="courses-section__list">
+        <div class="course-item">
+          <div class="chips chips--filled">
+            <span class="chips__label">Aoùt 2023 - Sept. 2023</span>
+          </div>
+          <div class="course-item__content">
+            <h3 class="course-item__title">Cours d'été International de langue et de culture allemandes</h3>
+            <p class="course-item__subtitle">Université de HeidelberGg, Allemagne</p>
+          </div>
+        </div>
+        <div class="course-item">
+          <div class="chips chips--filled">
+            <span class="chips__label">Nov. 2021 - Nov. 2021</span>
+          </div>
+          <div class="course-item__content">
+            <h3 class="course-item__title">Formation générale sur la santé et la sécurité au travail (PCTO)</h3>
+            <p class="course-item__subtitle">O.P.NA.FO.S., Italie</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="recommendations-internship">
+
+      <div class="recommendations">
+        <div class="recommendations__title">RÉFÉRENCES</div>
+        <div class="recommendations__list">
+          <div class="recommendation">
+            <div class="recommendation__person">
+              <div class="recommendation__person-name">GAËL PREVOST-KERAVEC</div>
+              <div class="recommendation__person-info">
+                <div class="recommendation__person-company">Cœurs Vaillants-Ames Vaillantes (ACE)</div>
+                <div class="recommendation__person-phone">P: +377 93 25 32 16</div>
+                <div class="recommendation__person-email">E: cvav@libello.com</div>
+              </div>
+            </div>
+          </div>
+          <div class="recommendation">
+            <div class="recommendation__person">
+              <div class="recommendation__person-name">Dmitry Ilyin</div>
+              <div class="recommendation__person-info">
+                <div class="recommendation__person-company">OpenIPC</div>
+                <div class="recommendation__person-phone">P: +7 985 967 2219</div>
+                <div class="recommendation__person-email">E: d.ilyn@openipc.org</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="separator"></div>
+      </div>
+
+      <div class="internship">
+        <div class="internship__title">STAGE</div>
+        <div class="internship__chips">
+          <div class="chips chips--filled">
+            <span class="chips__label">Juil. 2022 - Juil 2022</span>
+          </div>
+        </div>
+        <div class="internship__description">
+          <div class="internship__position">
+            <div class="internship__position-title">ПAssistante animatrice</div>
+            <div class="internship__position-company">CŒURS VAILLANTS-AMES VAILLANTES (A.C.E.), Selonnet dans les Alpes de Haute-Provence en France</div>
+          </div>
+          <div class="internship__responsibilities">Assistante animatrice en temps de travail dans une colonie de vacances pour enfants</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="skills-hobbies">
+      <div class="skills">
+        <h2 class="skills__title">LANGUES</h2>
+        <div class="skills__list">
+          <div class="skill">
+            <div class="progress">
+              <label class="progress__label">Anglais</label>
+              <div class="progress__bar">
+                <div class="progress__bar--fill" style="width: 75%;"></div>
+              </div>
+            </div>
+          </div>
+          <div class="skill">
+            <div class="progress">
+              <label class="progress__label">Italien</label>
+              <div class="progress__bar">
+                <div class="progress__bar progress__bar--complete"></div>
+              </div>
+            </div>
+          </div>
+          <div class="skill">
+            <div class="progress">
+              <label class="progress__label">Allemand</label>
+              <div class="progress__bar">
+                <div class="progress__bar--fill" style="width: 75%;"></div>
+              </div>
+            </div>
+          </div>
+          <div class="skill">
+            <div class="progress">
+              <label class="progress__label">Russie</label>
+              <div class="progress__bar progress__bar--complete"></div>
+            </div>
+          </div>
+          <div class="skill">
+            <div class="progress">
+              <label class="progress__label">Français</label>
+              <div class="progress__bar">
+                <div class="progress__bar--fill" style="width: 75%;"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="hobbies">
+        <h2 class="hobbies__title">CENTRES D'INTÉRÊT</h2>
+        <p class="hobbies__description">Lire des livres, apprendre des langues, voyager, musique, art, psychologie, yoga</p>
+      </div>
+    </section>
+
+    <section class="music-education">
+      <h2 class="music-education__title">L'APPRENTIS AGGE MUSICAL ET LES RÉSULTATS</h2>
+
+      <div class="music-education__content">
+        <div class="chips chips--filled">
+          <span class="chips__label">Mai 2018 - présent</span>
+        </div>
+
+        <div class="music-education__info">
+          <div class="music-education__place">
+            <h3 class="music-education__place-title">Orchestre et école de musique “Note Libere” ville de Sanremo</h3>
+            <p class="music-education__place-city">Sanremo</p>
+          </div>
+          <div class="music-education__achievements">
+            <p class="music-education__achievements-participation">Membre régulier de l'orchestre «Note Libere» à toutes les représentations</p>
+            <p class="music-education__diplomas-text">Liste des diplômes reçus :</p>
+            <ul class="music-education__achievements-diplomas">
+              <li>Villa Zirio, Alto, Essais de fin d'année, 29.06.2024</li>
+              <li>ABRSM, Alto, Performance niveau 6, 22.07.2023</li>
+              <li>Liceo Cassini, Alto, Essais musicaux, 18.06.2023</li>
+              <li>ABRSM, Alto, Niveau 5 Théorie de la musique, 05.11.2022</li>
+              <li>Liceo Cassini, Alto, Essais musicaux, 19.06.2022</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="extracurricular-activities">
+      <h2 class="extracurricular-activities__title">ACTIVITÉS EXTRASCOLAI RES</h2>
+      <div class="extracurricular-activities__list">
+        <div class="activity">
+          <div class="chips chips--filled">
+            <span class="chips__label">Déc. 2023 - Juin 2024</span>
+          </div>
+          <div class="activity__content">
+            <div class="activity__header">
+              <h3 class="activity__title">Enseignant</h3>
+              <p class="activity__subtitle">Leçons privées, Sanremo</p>
+            </div>
+            <p class="activity__description">Enseignement de l'anglais à des enfants âgés de 14 à 15 ans</p>
+          </div>
+        </div>
+        <div class="activity">
+          <div class="chips chips--filled">
+            <span class="chips__label">Sept. 2022 - Juin 2023</span>
+          </div>
+          <div class="activity__content">
+            <div class="activity__header">
+              <h3 class="activity__title">Enseignant</h3>
+              <p class="activity__subtitle">École primaire, Sanremo</p>
+            </div>
+            <p class="activity__description">Enseignement du français à des enfants âgés de 9 à 10 ans</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+  </main>
+
+
+  <footer class="footer">
+  </footer>
+
+
+  <script>
+    // Получаем элементы
+    const changeableDiv = document.getElementById('lang-menu-btn');
+    const image = document.getElementById('lang-menu-img');
+    const hiddenDiv = document.getElementById('lang-menu-list');
+
+    // Функция для изменения картинки и видимости
+    function toggleState() {
+      // Меняем картинку
+      image.src = "./img/arrow_up.svg";
+
+      // Показываем скрытый div
+      hiddenDiv.style.display = 'block';
+    }
+
+    // Функция для возврата состояния
+    function resetState() {
+      // Возвращаем исходную картинку
+      image.src = "./img/arrow_down.svg";
+
+      // Скрываем div
+      hiddenDiv.style.display = 'none';
+    }
+
+    // Добавляем обработчик на клик по changeableDiv
+    changeableDiv.addEventListener('click', toggleState);
+
+    // Добавляем обработчик на клик вне changeableDiv
+    document.addEventListener('click', function (event) {
+      if (!changeableDiv.contains(event.target)) {
+        resetState();
+      }
+    });
+  </script>
+</body>
+
+</html>
