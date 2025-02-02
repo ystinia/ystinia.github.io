@@ -36,12 +36,30 @@ stimulating and inclusive artistic pathways...
 
 ```
 INGLESE
-Education 
+
+Education
 Guglielmo Marconi Telematic University
-Bachelor’s Degree in Education Sciences  
-September 2024 – Present  
+Bachelor’s Degree in Education Sciences
+September 2024 – Present
 
 I am enrolled in the Bachelor's degree program in Education Sciences at Guglielmo Marconi Telematic University.
 My studies focus on acquiring pedagogical, psychological, and methodological skills necessary for education and training.
 This program enables me to develop both theoretical and practical knowledge useful in the field of education and personal growth.
+```
+
+---
+
+```
+INGLESE
+
+Certifications and Training
+IT Support Specialist
+Coursera(Telematic Platform)
+October 2024 – Present
+
+I am currently enrolled in the IT Support Specialist program on Coursera, delivered entirely in English. This learning path enables me to acquire fundamental skills in technical support and computer networking.
+
+So far, I have successfully completed the following modules and earned the corresponding certificates:
+1. *Technical Support Fundamentals* – obtained on November 19, 2024 – Introduction to basic concepts of technical support, including hardware, software, and troubleshooting.
+2. *The Bits and Bytes of Computer Networking* – obtained on December 23, 2024 – In-depth study of networking principles, communication protocols, and network infrastructure.
 ```

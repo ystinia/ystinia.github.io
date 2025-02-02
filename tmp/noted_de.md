@@ -46,3 +46,24 @@ Ich bin im Bachelorstudiengang Bildungswissenschaften an der Guglielmo Marconi T
 Mein Studium konzentriert sich auf den Erwerb von pädagogischen, psychologischen und methodischen Kompetenzen, die für Bildung und Erziehung erforderlich sind.
 Dieses Programm ermöglicht es mir, theoretische und praktische Kenntnisse zu entwickeln, die im Bildungsbereich und für das persönliche Wachstum nützlich sind.
 ```
+
+---
+
+```
+TEDESCO
+
+Zertifizierungen und Ausbildung
+IT Support Specialist
+Coursera (Telematik-Plattform)
+Oktober 2024 – Gegenwart
+
+Ich nehme derzeit am IT Support Specialist-Programm auf Coursera teil, das vollständig in Englisch angeboten wird.
+Dieses Lernprogramm ermöglicht es mir, grundlegende Fähigkeiten im Bereich technischer Support und Computernetzwerke zu erwerben.
+
+Bisher habe ich die folgenden Module erfolgreich abgeschlossen und die entsprechenden Zertifikate erhalten:
+1. *Technical Support Fundamentals* – erhalten am 19. November 2024 – Einführung in die grundlegenden Konzepte des technischen Supports, einschließlich Hardware, Software und Fehlerbehebung.
+2. *The Bits and Bytes of Computer Networking* – erhalten am 23. Dezember 2024 – Vertiefung der Prinzipien von Netzwerken, Kommunikationsprotokollen und Netzwerk-Infrastrukturen.
+```
+
+
+

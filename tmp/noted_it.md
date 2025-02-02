@@ -47,3 +47,23 @@ Sono iscritta al corso di laurea in Scienze della Formazione presso l'Universit�
 Il mio percorso di studi è focalizzato sull'acquisizione di competenze pedagogiche, psicologiche e metodologiche necessarie per l'educazione e la formazione.
 Questo programma mi permette di sviluppare conoscenze teoriche e pratiche utili nel settore dell’istruzione e della crescita personale.
 ```
+
+---
+
+```
+ITALIANO
+
+Certificazioni e Formazione
+IT Support Specialist
+Coursera (Piattaforma Telematica)
+Ottobre 2024 – Presente
+
+Attualmente sto seguendo il programma di formazione in IT Support Specialist su Coursera, interamente in lingua inglese.
+Questo percorso di studi mi permette di acquisire competenze fondamentali nell'ambito dell'assistenza tecnica e delle reti informatiche.
+
+Fino ad ora, ho completato con successo i seguenti moduli e ottenuto i relativi certificati:
+1. *Technical Support Fundamentals* – ottenuto il 19 novembre 2024 - Introduzione ai concetti base del supporto tecnico, inclusi hardware, software e risoluzione dei problemi.
+2. *The Bits and Bytes of Computer Networking* – Ottenuto il 23 dicembre 2024 - Approfondimento sui principi di networking, protocolli di comunicazione e infrastrutture di rete.
+```
+
+
