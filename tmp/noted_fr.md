@@ -30,3 +30,18 @@ Au sein de l’association, je m’occupe de présentations artistiques pour enf
 interactifs qui les aident à développer leur imagination et leur créativité. Mon objectif est de les inspirer à explorer leur
 potentiel expressif à travers des parcours artistiques stimulants et inclusifs...
 ```
+
+---
+
+```
+FRANCESE
+
+Formation
+Université Télématique Guglielmo Marconi
+Licence en Sciences de l'Éducation
+Septembre 2024 – Présent
+
+Je suis inscrite au programme de licence en Sciences de l'Éducation à l'Université Télématique Guglielmo Marconi.
+Mon parcours d'études se concentre sur l'acquisition de compétences pédagogiques, psychologiques et méthodologiques nécessaires dans le domaine de l'éducation et de la formation.
+Ce programme me permet de développer des connaissances théoriques et pratiques utiles dans le secteur de l'enseignement et du développement personnel.
+```

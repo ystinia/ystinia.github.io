@@ -30,3 +30,18 @@ Within the association, I organize art presentations for children, designing int
 them develop their imagination and creativity. My goal is to inspire them to explore their expressive potential through
 stimulating and inclusive artistic pathways...
 ```
+
+---
+
+
+```
+INGLESE
+Education 
+Guglielmo Marconi Telematic University
+Bachelor’s Degree in Education Sciences  
+September 2024 – Present  
+
+I am enrolled in the Bachelor's degree program in Education Sciences at Guglielmo Marconi Telematic University.
+My studies focus on acquiring pedagogical, psychological, and methodological skills necessary for education and training.
+This program enables me to develop both theoretical and practical knowledge useful in the field of education and personal growth.
+```

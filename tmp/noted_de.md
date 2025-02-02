@@ -31,3 +31,18 @@ In der Vereinigung organisiere ich Kunstpräsentationen für Kinder und entwickl
 helfen, ihre Vorstellungskraft und Kreativität zu entfalten. Mein Ziel ist es, sie zu inspirieren, ihr Ausdruckspotenzial durch
 spannende und integrative Kunstprojekte zu entdecken...
 ```
+
+---
+
+```
+TEDESCO
+
+Ausbildung
+Guglielmo Marconi Telematik-Universität
+Bachelor in Bildungswissenschaften
+September 2024 – Gegenwart
+
+Ich bin im Bachelorstudiengang Bildungswissenschaften an der Guglielmo Marconi Telematik-Universität eingeschrieben.
+Mein Studium konzentriert sich auf den Erwerb von pädagogischen, psychologischen und methodischen Kompetenzen, die für Bildung und Erziehung erforderlich sind.
+Dieses Programm ermöglicht es mir, theoretische und praktische Kenntnisse zu entwickeln, die im Bildungsbereich und für das persönliche Wachstum nützlich sind.
+```

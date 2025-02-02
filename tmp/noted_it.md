@@ -30,3 +30,20 @@ All’interno dell’associazione, mi occupo di presentazioni d’arte per bambi
 che li aiutano a sviluppare immaginazione e creatività. Il mio obiettivo è ispirarli a esplorare il loro potenziale espressivo
 attraverso percorsi artistici stimolanti e inclusivi.
 ```
+
+
+---
+
+
+```
+ITALIANO
+
+Istruzione
+Università Telematica Guglielmo Marconi
+Laurea in Scienze della Formazione  
+Settembre 2024 – Presente  
+
+Sono iscritta al corso di laurea in Scienze della Formazione presso l'Università Telematica Guglielmo Marconi.
+Il mio percorso di studi è focalizzato sull'acquisizione di competenze pedagogiche, psicologiche e metodologiche necessarie per l'educazione e la formazione.
+Questo programma mi permette di sviluppare conoscenze teoriche e pratiche utili nel settore dell’istruzione e della crescita personale.
+```
