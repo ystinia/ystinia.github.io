@@ -1,4 +1,10 @@
 ```
+Sono il proprietario del marchio "OpenIPC" (firmware alternativo per telecamere IP) in Francia, Italia, Germania, Benelux e Monaco.  
+
+Orchestra "OpenOrchestra", città di Imperia
+Membro regolare dell'orchestra "OpenOrchestra" e presente a tutti i concerti.
+
+
 Esperienza lavorativa
 Receptionist 
 Albergo Petit Royal, Ospedaletti, Liguria, Italia - In sede
@@ -43,8 +49,10 @@ Attualmente sto seguendo il programma di formazione in IT Support Specialist su 
 Questo percorso di studi mi permette di acquisire competenze fondamentali nell'ambito dell'assistenza tecnica e delle reti informatiche.
 
 Fino ad ora, ho completato con successo i seguenti moduli e ottenuto i relativi certificati:
-1. *Technical Support Fundamentals* – ottenuto il 19 novembre 2024 - Introduzione ai concetti base del supporto tecnico, inclusi hardware, software e risoluzione dei problemi.
-2. *The Bits and Bytes of Computer Networking* – Ottenuto il 23 dicembre 2024 - Approfondimento sui principi di networking, protocolli di comunicazione e infrastrutture di rete.
+Technical Support Fundamentals – ottenuto il 19 novembre 2024 - Introduzione ai concetti base del supporto tecnico, inclusi hardware, software e risoluzione dei problemi.
+The Bits and Bytes of Computer Networking – Ottenuto il 23 dicembre 2024 - Approfondimento sui principi di networking, protocolli di comunicazione e infrastrutture di rete.
+Operating Systems and You: Becoming a Power User – ottenuto il 17 gennaio 2025 – Approfondimento sui sistemi operativi, gestione degli utenti, configurazione del sistema e strumenti da power user.
+
 ```
 
 

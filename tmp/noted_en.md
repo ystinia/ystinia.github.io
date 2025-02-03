@@ -1,5 +1,10 @@
-
 ```
+I am the owner of the trademark "OpenIPC" (alternative firmware for IP video cameras) in France, Italy, Germany, Benelux, Monaco.
+
+Orchestra "OpenOrchestra" city of Imperia
+Regular member of the "OpenOrchestra" and performing at all concerts.
+
+
 Work Experience.
 ArtistIdeal, Sanremo, Liguria,
 Italy - On-site
@@ -34,6 +39,7 @@ Oct 2024 - Present
 I am currently enrolled in the IT Support Specialist program on Coursera, delivered entirely in English. This learning path enables me to acquire fundamental skills in technical support and computer networking.
 
 So far, I have successfully completed the following modules and earned the corresponding certificates:
-1. *Technical Support Fundamentals* – obtained on November 19, 2024 – Introduction to basic concepts of technical support, including hardware, software, and troubleshooting.
-2. *The Bits and Bytes of Computer Networking* – obtained on December 23, 2024 – In-depth study of networking principles, communication protocols, and network infrastructure.
+Technical Support Fundamentals – obtained on November 19, 2024 – Introduction to basic concepts of technical support, including hardware, software, and troubleshooting.
+The Bits and Bytes of Computer Networking – obtained on December 23, 2024 – In-depth study of networking principles, communication protocols, and network infrastructure.
+Operating Systems and You: Becoming a Power User – obtained on January 17, 2025 – Deep dive into operating systems, user management, system configuration, and power user tools.
 ```
