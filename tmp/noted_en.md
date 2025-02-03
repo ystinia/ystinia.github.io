@@ -1,5 +1,8 @@
 ```
-I am the owner of the trademark "OpenIPC" (alternative firmware for IP video cameras) in France, Italy, Germany, Benelux, Monaco.
+I am the owner of the «OpenIPC» brand (alternative firmware for IP cameras) in France, Monaco, Italy, Germany, and the Benelux countries.
+I manage the OpenIPC EU representative office, overseeing educational, research, and integration aspects of the project.
+Additionally, I administer the community budget on the OpenCollective platform, develop partnership relations, and handle documentation.
+
 
 Orchestra "OpenOrchestra" city of Imperia
 Regular member of the "OpenOrchestra" and performing at all concerts.

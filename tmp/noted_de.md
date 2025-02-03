@@ -1,5 +1,7 @@
 ```
-Ich bin Inhaber der Marke "OpenIPC" (alternative Firmware für IP-Videokameras) in Frankreich, Italien, Deutschland, Benelux und Monaco.
+Ich bin die Inhaberin der Marke «OpenIPC» (alternative Firmware für IP-Kameras) in Frankreich, Monaco, Italien, Deutschland und den Benelux-Ländern.
+Ich leite das Repräsentationsbüro OpenIPC EU und betreue die Bildungs-, Forschungs- und Integrationsbereiche des Projekts.
+Zudem verwalte ich das Gemeinschaftsbudget auf der Plattform OpenCollective, entwickle Partnerschaften und kümmere mich um die Dokumentation.
 
 
 Orchester "OpenOrchestra", Stadt Imperia
