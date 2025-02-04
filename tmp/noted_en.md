@@ -8,6 +8,9 @@ Orchestra "OpenOrchestra" city of Imperia
 Regular member of the "OpenOrchestra" and performing at all concerts.
 
 
+I obtained the certificate for the "Internationaler Ferienkurs für deutsche Sprache und Kultur" and successfully passed the final exam at the Mittelstufe 2 level on Aug. 30, 2023.
+
+
 Work Experience.
 ArtistIdeal, Sanremo, Liguria,
 Italy - On-site

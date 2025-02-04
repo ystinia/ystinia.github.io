@@ -8,6 +8,9 @@ Orchestra "OpenOrchestra", città di Imperia
 Membro regolare dell'orchestra "OpenOrchestra" e presente a tutti i concerti.
 
 
+Ho ottenuto il certificato del "Internationaler Ferienkurs für deutsche Sprache und Kultur" e ho superato con successo l'esame finale di livello Mittelstufe 2 il 30 Ago. 2023.
+
+
 Esperienza lavorativa
 Receptionist 
 Albergo Petit Royal, Ospedaletti, Liguria, Italia - In sede

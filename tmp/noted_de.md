@@ -8,6 +8,8 @@ Orchester "OpenOrchestra", Stadt Imperia
 Reguläres Mitglied des Orchesters "OpenOrchestra" und aktiv bei allen Konzerten.
 
 
+Ich habe das Zertifikat des "Internationaler Ferienkurs für deutsche Sprache und Kultur" erhalten und die Abschlussprüfung auf Mittelstufe-2-Niveau am 30 Aug. 2023 erfolgreich bestanden.
+
 
 
 Berufserfahrung
