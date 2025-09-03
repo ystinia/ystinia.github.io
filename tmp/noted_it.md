@@ -1,6 +1,6 @@
 ```
 
-Avr. 2025 - présent  Palais de Monaco, Monaco
+Avr. 2025 - présent  Palais de Monaco
 Sep. 2024 - Mar. 2025 Hôtel Petit Royal
 
 
