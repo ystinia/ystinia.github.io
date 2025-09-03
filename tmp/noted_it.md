@@ -1,4 +1,9 @@
 ```
+
+Avr. 2025 - présent  Palais de Monaco, Monaco
+Sep. 2024 - Mar. 2025 Hôtel Petit Royal
+
+
 Sono la proprietaria del marchio «OpenIPC» (firmware alternativo per telecamere IP) in Francia, Monaco, Italia, Germania e nei paesi del Benelux.
 Gestisco l'ufficio di rappresentanza OpenIPC EU, occupandomi degli aspetti educativi, di ricerca e di integrazione del progetto.
 Inoltre, amministro il budget della comunità sulla piattaforma OpenCollective, sviluppo relazioni di partnership e mi occupo della documentazione.

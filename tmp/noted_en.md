@@ -1,4 +1,8 @@
 ```
+
+Avr. 2025 - présent  Palais de Monaco, Monaco
+
+
 I am the owner of the «OpenIPC» brand (alternative firmware for IP cameras) in France, Monaco, Italy, Germany, and the Benelux countries.
 I manage the OpenIPC EU representative office, overseeing educational, research, and integration aspects of the project.
 Additionally, I administer the community budget on the OpenCollective platform, develop partnership relations, and handle documentation.
