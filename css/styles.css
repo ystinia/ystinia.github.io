@@ -717,7 +717,7 @@ a {
   }
 }
 .contacts__item--location {
-  width: 470px;
+  width: 570px;
   min-width: 470px;
   height: 56px;
 }
@@ -740,7 +740,7 @@ a {
 
 
 .contacts__item--phone {
-  width: 355px;
+  width: 255px;
   height: 56px;
   order: 1;
   flex-grow: 1;
@@ -749,7 +749,7 @@ a {
   .contacts__item--phone {
     width: 186px;
     height: 48px;
-    min-width: 136;
+    min-width: 186;
     border-radius: 16px;
     flex-grow: 0;
   }
@@ -757,7 +757,7 @@ a {
 @media (max-width: 767px) {
   .contacts__item--phone {
     width: 154px;
-    min-width: 104;
+    min-width: 154;
     height: 40px;
     border-radius: 12px;
   }
