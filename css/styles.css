@@ -721,7 +721,7 @@ a {
   min-width: 470px;
   height: 56px;
 }
-@media (max-width: 1199px) {
+@media (max-width: 1399px) {
   .contacts__item--location {
     width: 374px;
     min-width: 374px;
