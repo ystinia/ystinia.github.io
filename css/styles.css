@@ -737,8 +737,6 @@ a {
     border-radius: 12px;
   }
 }
-
-
 .contacts__item--phone {
   width: 255px;
   height: 56px;
@@ -762,8 +760,6 @@ a {
     border-radius: 12px;
   }
 }
-
-
 .contacts__item--email {
   width: 355px;
   height: 56px;
@@ -785,8 +781,6 @@ a {
     border-radius: 12px;
   }
 }
-
-
 .contacts__icon {
   width: 24px;
   height: 24px;
